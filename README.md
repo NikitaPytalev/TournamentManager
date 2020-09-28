@@ -1,2 +1,2 @@
 # TournamentManager
-Just a prototype for a tournament management application.
+Just a CI/CD prototype for a tournament management application.
